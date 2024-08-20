@@ -14,13 +14,13 @@ Accenture has started a 3-month proof of concept focusing on three key areas:
 The project follows the 5 key steps of data analysis:
 
 1. **Define the Problem**: Identify Social Buzz’s big data challenges and key metrics for a successful IPO.
-2. 
-3. **Collect Data**: Gather data on user activity, content categories, types, and engagement metrics.
-4. 
-5. **Clean and Prepare Data**: Handle missing values, standardize data, and ensure data is ready for analysis.
-6. 
-7. **Analyze Data**: Use statistical and trend analysis to uncover the most popular content categories and emerging trends.
-8. 
-9. **Interpret Results**: Provide actionable insights and recommendations for Social Buzz’s future, including IPO strategies and improved data practices.
+   
+2. **Collect Data**: Gather data on user activity, content categories, types, and engagement metrics.
+ 
+3. **Clean and Prepare Data**: Handle missing values, standardize data, and ensure data is ready for analysis.
+ 
+4. **Analyze Data**: Use statistical and trend analysis to uncover the most popular content categories and emerging trends.
+ 
+5. **Interpret Results**: Provide actionable insights and recommendations for Social Buzz’s future, including IPO strategies and improved data practices.
 
 
